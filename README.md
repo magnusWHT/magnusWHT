@@ -9,6 +9,7 @@ Meu objetivo é unir minha experiência em engenharia e indústria ao universo d
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Engenharia Mecatrônica](https://img.shields.io/badge/Engenharia_Mecatrônica-005A9C?style=for-the-badge&logo=engineering&logoColor=white)
+![Técnico em Mecânica](https://img.shields.io/badge/T%C3%A9cnico%20em%20Mec%C3%A2nica-808080?style=for-the-badge&logo=mechanical-engineering&logoColor=white)
 ![PCM](https://img.shields.io/badge/PCM_/_Manutenção-FF5733?style=for-the-badge&logo=build&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,6 +18,7 @@ Meu objetivo é unir minha experiência em engenharia e indústria ao universo d
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74A114?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
