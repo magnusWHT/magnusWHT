@@ -12,6 +12,7 @@ Meu objetivo é unir minha experiência em engenharia e indústria ao universo d
 ![PCM](https://img.shields.io/badge/PCM_/_Manutenção-FF5733?style=for-the-badge&logo=build&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74A114?style=for-the-badge&logo=openai&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
