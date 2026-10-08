@@ -5,7 +5,7 @@ Minha trajetória conecta engenharia, tecnologia, análise de dados e eficiênci
 Meu objetivo é unir minha experiência em engenharia e indústria ao universo de dados e tecnologia, contribuindo para a tomada de decisões, otimização de processos e geração de resultados.
 
 - 🌱 I’m currently learning ... SQL, Python, Excel, Análise de Dados, Planejamento e Controle da Manutenção
-- 📫 How to reach me: ... viny.souza.silva@hotmail.com - (11) 95885-0722
+- 📫 How to reach me: ... viny.souza.silva@hotmail.com - https://www.linkedin.com/in/vinicius-silva-13a3991b2/ - (11) 95885-0722
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Engenharia Mecatrônica](https://img.shields.io/badge/Engenharia_Mecatrônica-005A9C?style=for-the-badge&logo=engineering&logoColor=white)
